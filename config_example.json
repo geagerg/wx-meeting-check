@@ -1,0 +1,9 @@
+{
+  "corpid": "YOUR_CORP_ID",
+  "corpsecret": "YOUR_CORP_SECRET",
+  "base_url": "https://qyapi.weixin.qq.com",
+  "token_cache_file": "token_cache.json",
+  "userid": "USERID",
+  "meeting_list_limit": 100,
+  "webhook_url": "YOUR_WEBHOOK_URL"
+}
